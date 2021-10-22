@@ -1,0 +1,8 @@
+{
+  "database": {
+    "host": "localhost",
+    "database": "crud",
+    "user": "root",
+    "password": ""
+  }
+}

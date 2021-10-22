@@ -1,0 +1,33 @@
+textarea {
+	margin-left: 200px;
+	border: #5836b3 solid 1px;
+	border-radius: 15px;
+	font-size: 15px;
+}
+
+button {
+	padding: 12px;
+	cursor: pointer;
+	display: inline-block;
+	border: none;
+	border-radius: 5px;
+	font-size: 17px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	background-color: #3594c7;
+}
+
+input {
+	padding: 12px;
+	border: 1px solid #cfc6c6;
+	border-radius: 4px;
+	margin: 5px 0;
+	opacity: 0.85;
+	display: inline-block;
+	font-size: 17px;
+	line-height: 20px;
+	text-decoration: none;
+	width: 700px;
+	margin-left: 300px;
+}
